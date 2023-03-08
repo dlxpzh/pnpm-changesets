@@ -1,0 +1,26 @@
+{
+  "name": "monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlxpzh/monorepo-test"
+  },
+  "scripts": {
+    "dev:ui": "pnpm run --filter ui dev",
+    "dev:plugin": "pnpm run --filter plugin dev",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.26.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.0",
+    "vue-tsc": "^1.0.24"
+  }
+}
