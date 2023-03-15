@@ -1,5 +1,11 @@
 # plugin
 
+## 2.0.0
+
+### Major Changes
+
+- 81cb06c: pnpm+changesets 方案
+
 ## 1.0.0
 
 ### Major Changes
