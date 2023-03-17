@@ -1,5 +1,11 @@
 # plugin
 
+## 3.0.0
+
+### Major Changes
+
+- 03cdd4b: 测试 changeset
+
 ## 2.0.0
 
 ### Major Changes
