@@ -1,5 +1,11 @@
 # plugin
 
+## 4.0.0
+
+### Major Changes
+
+- 1a2f24b: changeset log
+
 ## 3.0.0
 
 ### Major Changes

@@ -1,7 +1,7 @@
 {
   "name": "ui",
   "private": true,
-  "version": "3.0.0",
+  "version": "4.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +9,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "pnpm-plugin": "workspace:^3.0.0"
+    "pnpm-plugin": "workspace:^4.0.0"
   }
 }
