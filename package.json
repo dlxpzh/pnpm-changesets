@@ -9,14 +9,16 @@
   },
   "scripts": {
     "dev:ui": "pnpm run --filter ui dev",
-    "dev:plugin": "pnpm run --filter plugin dev",
-    "build": "vue-tsc && vite build",
+    "build:plugin": "pnpm run --filter pnpm-plugin build",
+    "lint": "vue-tsc",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
     "vue": "^3.2.45"
   },
   "devDependencies": {
+    "@types/node": "^18.7.4",
     "@changesets/cli": "^2.26.0",
     "@vitejs/plugin-vue": "^4.0.0",
     "typescript": "^4.9.3",
