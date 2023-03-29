@@ -1,5 +1,0 @@
----
-"@changesets/cli": major
----
-
-changelog

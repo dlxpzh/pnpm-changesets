@@ -1,5 +1,12 @@
 # plugin
 
+## 8.0.0
+
+### Major Changes
+
+- 5d1523d: test version
+- 测试 changelog
+
 ## 7.0.0
 
 ### Major Changes
