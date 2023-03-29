@@ -1,5 +1,13 @@
 # plugin
 
+## 9.0.0
+
+### Major Changes
+
+- changelog 日志---2
+- d40ca4c: 日志
+- 02ead97: changelog 日志---3
+
 ## 8.0.0
 
 ### Major Changes

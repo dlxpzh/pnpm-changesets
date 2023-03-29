@@ -1,5 +1,12 @@
 # ui
 
+## 7.0.0
+
+### Major Changes
+
+- changelog 日志---2
+- 02ead97: changelog 日志---3
+
 ## 6.0.0
 
 ### Major Changes
