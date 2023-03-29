@@ -1,0 +1,5 @@
+---
+"pnpm-plugin": major
+---
+
+dddd
