@@ -1,5 +1,12 @@
 # plugin
 
+## 11.0.0
+
+### Major Changes
+
+- ecb172b: change 日志文件
+- 111changelog 日志
+
 ## 10.0.0
 
 ### Major Changes
