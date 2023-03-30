@@ -1,5 +1,12 @@
 # plugin
 
+## 12.0.0
+
+### Major Changes
+
+- change 日志 001
+- 6726e61: esm
+
 ## 11.0.0
 
 ### Major Changes
