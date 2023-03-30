@@ -1,5 +1,11 @@
 # pnpm-plugin
 
+## 17.0.0
+
+### Major Changes
+
+main-bug-123-谢忠平: [object Promise]
+
 ## 16.0.0
 
 ### Major Changes
