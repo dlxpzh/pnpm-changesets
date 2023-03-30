@@ -1,5 +1,11 @@
 # pnpm-plugin
 
+## 20.0.0
+
+### Major Changes
+
+- 666
+
 ## 19.0.0
 
 ### Major Changes
