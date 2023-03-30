@@ -1,5 +1,11 @@
 # pnpm-plugin
 
+## 18.0.0
+
+### Major Changes
+
+- 日志 12345
+
 ## 17.0.0
 
 ### Major Changes
