@@ -1,5 +1,5 @@
 <template>
-    <div>{{ data }}</div>
+    <div>{{ data }} 666</div>
 </template>
 
 <script lang="ts">
