@@ -1,5 +1,15 @@
 # plugin
 
+## 10.0.0
+
+### Major Changes
+
+- 1da234d: change 日志
+
+### Minor Changes
+
+- changelog 日志文件
+
 ## 9.0.0
 
 ### Major Changes

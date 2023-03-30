@@ -9,6 +9,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "pnpm-plugin": "workspace:^9.0.0"
+    "pnpm-plugin": "workspace:^10.0.0"
   }
 }
