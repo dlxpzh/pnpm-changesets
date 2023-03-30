@@ -1,11 +1,5 @@
 # @changesets/cli
 
-## 3.0.0
-
-### Major Changes
-
-- ed53a42: changelog
-
 ## 2.26.1
 
 ### Patch Changes
