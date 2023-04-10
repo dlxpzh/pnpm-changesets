@@ -2,5 +2,5 @@
 "pnpm-plugin": major
 ---
 
-555
+add : 5
 12345
